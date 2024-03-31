@@ -1,0 +1,23 @@
+{
+  "name": "ChainPouch",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --passWithNoTests --watchAll --config ./chainpouch/jest.config.json",
+    "dev-1": "nodemon ./chainpouch/src/main.js",
+    "dev": "node ./chainpouch/src/main.js"
+  },
+  "keywords": [],
+  "author": "Mike Watkins",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^20.12.0",
+    "npm": "^10.5.0",
+    "uuid": "^9.0.1"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "node": "^20.12.0"
+  },
+  "description": ""
+}
