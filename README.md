@@ -15,7 +15,7 @@ Your role is critical: review and test the initial codebase to ensure it meets t
 
 To setup your project, use the previous worksheet to initialise your project together the project’s initial source code.
 
-
+--- 
 
 ### A 15 Min Review Presentation 
 To complete this task, you are expected to briefly outline the purpose of testing before focusing on unit and integration tests supported with an understanding of a TDD or BDD approach to any associated user-based stories.  Your review is expected to be a live presentation (up to a max duration of 15mins). Ideally, demonstrating a walk-through of the project, test planning, test scripts and your test results; see the details below for an overall breakdown of the requirements; the presentation should include evidence of your actual project with explained and highlighted tests scripts, live testing and evaluated results (i.e., show and tell).
