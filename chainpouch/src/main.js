@@ -1,4 +1,4 @@
-const crypto = require('crypto'); // use built-in module to access cryptographic functionality 
+const crypto = require('crypto'); // use the built-in module to access cryptographic functionality 
 const { v4: uuidv4 } = require('uuid'); // for details review https://www.npmjs.com/package/uuid
 
 const fs = require('fs'); // use node's core filesystem module to interact with the os's filesystem 
